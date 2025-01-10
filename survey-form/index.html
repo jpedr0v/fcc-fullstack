@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Survey Form</title>
+</head>
+<body>
+    <h1 id="title">Roman Catholic Form</h1>
+    <p id="description">Let me know something about you, brother.</p>
+    <form id="survey-form">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label id="name-label" for="name">Name:  
+                <input id="name" type="text" placeholder="Peter..." required>
+            </label>
+            <label id="email-label" for="email">Email:  
+                <input id="email" type="email" placeholder="saint_pius_x_is_based@gmail.com" required>
+            </label>
+            <label id="number-label" for="number">Age:  
+                <input id="number" type="number" min="10" max="120" placeholder="18" required>
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>Favorite Pope</legend>
+            <label for="dropdown">Select your favorite pope:
+                <select id="dropdown" name="dropdown" required>
+                    <option value="" selected>(select one)</option>
+                    <option value="1">Saint Pius V</option>
+                    <option value="2">Saint Pius X</option>
+                    <option value="3">Saint Pius XII</option>
+                </select>
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>What is your position in the crisis?</legend>
+            <label for="rr">
+                <input class="inline" id="rr" type="radio" value="rr" name="position"> Recognize & Resist
+            </label>
+            <label for="true-cath">
+                <input class="inline" id="true-cath" type="radio" value="true-cath" name="position"> Catholic (sedevacantist)
+            </label>
+            <label for="continuist">
+                <input id="continuist" type="radio" value="continuist" name="position"> Continuist
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>What are your devotional practices? (select all that apply)</legend>
+            <label for="attendance">
+                <input id="attendance" type="checkbox" name="practice" value="attendance"> Attendance at Sunday Mass and Holy Days of Obligation
+            </label>
+            <label for="rosary">
+                <input id="rosary" type="checkbox" name="practice" value="rosary"> Daily recitation of the Holy Rosary
+            </label>
+            <label for="confession">
+                <input id="confession" type="checkbox" name="practice" value="confession"> Frequent sacramental confession
+            </label>
+            <label for="lectio">
+                <input id="lectio" type="checkbox" name="practice" value="lectio"> Practice of Lectio Divina
+            </label>
+            <label for="sacrament">
+                <input id="sacrament" type="checkbox" name="practice" value="sacrament"> Adoration of the Blessed Sacrament
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>Talk about yourself if you like:</legend>
+            <textarea id="talk" name="talk" rows="3" cols="30" placeholder="Write something about yourself..."></textarea>
+        </fieldset>
+        <label>
+            <input id="submit" type="submit" value="Submit">
+        </label>
+    </form>
+</body>
+</html>
