@@ -2,6 +2,8 @@
 
 Welcome to my **Certified Full Stack Developer Curriculum** repository! This project tracks a comprehensive learning journey to become a skilled full-stack developer.
 
+![](https://geps.dev/progress/15)
+
 ## Course Overview
 
 ### **HTML**: Master web structure and markup. ✅
