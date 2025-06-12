@@ -15,4 +15,4 @@ Welcome to my **Certified Full Stack Developer Curriculum** repository! This pro
 
 ## Status: Beta 🚧
 
-This course is in **beta**. Expect updates, new modules, and enhancements as we refine the experience. Stay tuned!
+This course is in **beta**. Stay tuned!
