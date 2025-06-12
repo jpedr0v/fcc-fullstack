@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.blog-post-card {
+    background-color: white;
+    border-radius: 5px;
+    width: 10vw;
+    text-align: center;
+}
+
+.post-img {
+    width: 100%;
+    height: 150px;
+    border-bottom: 10px solid brown;
+}
+
+.post-content {
+    padding: 5px;
+}
+
+.post-title, .post-excerpt {
+    margin: 5px;
+    color: brown;
+}
+
+.read-more {
+    display: inline-block;
+    color: burlywood;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    background-color: brown;
+    border-radius: 5px;
+}
+
+.read-more:hover {
+    background-color: burlywood;
+    color: brown;
+}
