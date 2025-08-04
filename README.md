@@ -14,8 +14,8 @@ Welcome to my **Certified Full Stack Developer Curriculum** repository! This pro
 ### **CSS** (In Progress): Dive into styling and responsive design.
 - Computer Basics ✅
 - Basic CSS ✅
-- Design✅
-- Absolute and Relative Units
+- Design ✅
+- Absolute and Relative Units ✅
 - Pseudo Classes and Elements
 - Colors
 - Styling Forms
