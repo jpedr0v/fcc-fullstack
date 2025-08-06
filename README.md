@@ -16,7 +16,7 @@ Welcome to my **Certified Full Stack Developer Curriculum** repository! This pro
 - Basic CSS ✅
 - Design ✅
 - Absolute and Relative Units ✅
-- Pseudo Classes and Elements
+- Pseudo Classes and Elements ✅
 - Colors
 - Styling Forms
 - The Box Model
