@@ -17,7 +17,7 @@ Welcome to my **Certified Full Stack Developer Curriculum** repository! This pro
 - Design ✅
 - Absolute and Relative Units ✅
 - Pseudo Classes and Elements ✅
-- Colors
+- Colors ✅
 - Styling Forms
 - The Box Model
 - Flexbox
