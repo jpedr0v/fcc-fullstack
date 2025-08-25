@@ -53,14 +53,43 @@ Welcome to my **Certified Full Stack Developer Curriculum** repository! This pro
 - React Fundamentals
 - React State, Hooks and Routing
 - Performance
-- CSS LIbraries and Frameworks
 - Testing
-- TypeScript Fundamentals
-- Front End Libraries Review
-### **Relational Databases** (Coming Soon): Master database management.
+- CSS Libraries and Frameworks (Coming Fall 2025) 
+- TypeScript Fundamentals (Coming Fall 2025)
 ### **Python** (Coming Soon): Discover Python programming.
+- Python Basics 🟡 *Coming Fall 2025*
+- Loops and Sequences 🟡 *Coming Fall 2025*
+- Dictionaries and Sets 🟡 *Coming Fall 2025*
+- Error Handling 🟡 *Coming Fall 2025*
+- Classes and Objects 🔵 *Coming Winter 2025*
+- Object-Oriented Programming (OOP) 🔵 *Coming Winter 2025*
+- Linear Data Structures 🔵 *Coming Winter 2025*
+- Algorithms 🔵 *Coming Winter 2025*
+- Graphs and Trees 🔵 *Coming Winter 2025*
+- Dynamic Programming 🔵 *Coming Winter 2025*
+### **Relational Databases** (Coming Soon): Master database management.
+- Bash Fundamentals 🔵 *Coming Winter 2025*
+- Relational Databases 🔵 *Coming Winter 2025*
+- Bash Scripting 🔵 *Coming Winter 2025*
+- SQL and Bash 🔵 *Coming Winter 2025*
+- Git 🔵 *Coming Winter 2025*
 ### **Backend JavaScript** (Coming Soon): Build server-side applications.
-### **Certified Full Stack Developer Exam** (Coming Soon): Validate my skills.
+- Node.js Core Libraries 🟢 *Coming Late 2026*
+- Node Package Manager 🟢 *Coming Late 2026*
+- HTTP and the Web Standards Model 🟢 *Coming Late 2026*
+- REST API and Web Services 🟢 *Coming Late 2026*
+- Introduction to Express 🟢 *Coming Late 2026*
+- Express Middleware 🟢 *Coming Late 2026*
+- Error Handling in Express 🟢 *Coming Late 2026*
+- WebSockets 🟢 *Coming Late 2026*
+- Node and SQL 🟢 *Coming Late 2026*
+- Security and Privacy 🟡 *Coming Fall 2025*
+- Authentication 🟢 *Coming Late 2026*
+- Tooling and Deployment 🟢 *Coming Late 2026*
+### **Career** (Coming Soon): Career advices.
+- How to Get a Developer Job 🟢 *Coming Late 2026*
+- Capstone Project 🟢 *Coming Late 2026*
+- Certified Full Stack Developer Exam 🟢 *Coming Late 2026*
 
 ## Status: Beta 🚧
-This course is in **beta**. Stay tuned!
+This course is in **beta**.
