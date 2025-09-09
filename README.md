@@ -20,7 +20,7 @@ Welcome to my **Certified Full Stack Developer Curriculum** repository! This pro
 - Colors ✅
 - Styling Forms ✅
 - The Box Model ✅
-- Flexbox
+- Flexbox ✅
 - Typography
 - Accessibility
 - Attribute Selectors
